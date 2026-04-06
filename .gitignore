@@ -12,8 +12,8 @@ __pycache__/
 *.pyd
 
 # Vector Store
-vector_store/faiss_index/index.faiss
-vector_store/faiss_index/index.pkl
+# vector_store/faiss_index/index.faiss
+# vector_store/faiss_index/index.pkl
 
 # Logs and Temporary files
 *.log
