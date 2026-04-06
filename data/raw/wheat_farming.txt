@@ -1,0 +1,32 @@
+﻿WHEAT FARMING GUIDE
+
+Climate Requirements:
+Wheat requires a cool, moist climate during the growing season (10-15°C) and a warm, dry climate for ripening (25-30°C). It is primarily a rabi (winter) crop in India.
+
+Sowing Time:
+- Ideal sowing time in India: November to December
+- Early sowing: October end (for high altitude areas)
+- Late sowing: Up to mid-December
+
+Recommended Varieties:
+- HD-2967: High yield, disease resistant, 140-145 days maturity
+- WH-1105: Suitable for late sowing, rust resistant
+- DBW-17: Good for irrigated conditions
+- PBW-550: High protein content
+
+Irrigation Schedule:
+- Crown Root Initiation (CRI): 20-25 days after sowing
+- Tillering stage: 40-45 days after sowing
+- Flowering stage: 60-65 days after sowing
+- Grain filling stage: 80-85 days after sowing
+Total water requirement: 4-6 irrigations depending on soil type
+
+Fertilizer Application:
+- Basal dose: 60 kg N, 30 kg P2O5, 30 kg K2O per hectare
+- First top dressing: 30 kg N at CRI stage
+- Second top dressing: 30 kg N at tillering stage
+
+Harvesting:
+- Harvest when moisture content is 14-15%
+- Yellowing of leaves and hard grains indicate maturity
+- Average yield: 45-50 quintals per hectare under good management

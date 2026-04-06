@@ -1,0 +1,46 @@
+Drones for Farming (Kheti Mein Drone)
+
+Uses of Drones:
+
+Spraying pesticides/fertilizers – 10-40x faster than manual, saves water & chemical (up to 30%).
+
+Seed dropping (for difficult terrain) – e.g., rice direct seeding in marshy fields.
+
+Crop health monitoring – Multispectral cameras identify stressed plants early.
+
+Soil & field analysis – Create 3D elevation maps for drainage planning.
+
+Government Support:
+
+Sub-Mission on Agricultural Mechanization (SMAM) – Up to 40-50% subsidy for drone purchase for FPOs/Custom Hiring Centres.
+
+Drone Didi Yojana (2024) – Train women to operate drones for spraying.
+
+Cost & Availability:
+
+Spray drones (10-12 litre capacity) ~₹4-8 lakhs; hiring cost ₹400-500/acre.
+
+Many states have drone hiring centres (e.g., IFFCO Kisan drone service).
+
+Safety Rules:
+
+DGCA registration required (operator remote pilot certificate).
+
+Fly below 120m; maintain line of sight.
+
+Avoid flying over people or during high wind.
+
+Recommended for:
+
+Large farms (>10 acres) for spray.
+
+Orchards and plantations (mango, tea, coffee).
+
+Hilly areas where manual spraying is difficult.
+
+Where to hire?
+
+Government KVK (Krishi Vigyan Kendra) – often have drone demo.
+
+Private agri startups: Thanos Technologies, Marut Drones, Dhaksha (IIT Madras).
+

@@ -1,0 +1,41 @@
+**Best Mobile Apps for Indian Farmers (Free/Paid)**
+
+1. **Kisan Suvidha** (Govt of India)
+   - Weather forecast, market prices (MSP, mandi rates), plant protection advisories.
+   - Farmer’s call centre, dealers, radio programmes.
+   - Available in Hindi, English, and many regional languages.
+
+2. **Plantix** (AI pest/disease diagnosis)
+   - Take photo of leaf/fruit – AI identifies disease/pest and suggests remedy.
+   - Also gives nutrient deficiency detection.
+   - Free, works offline after initial download.
+   - Languages: Hindi, Telugu, Tamil, Kannada, Marathi, English.
+
+3. **CropIn** (Farm management)
+   - Record farm activities (sowing, spray, harvest), get reminders.
+   - Satellite-based crop health alerts.
+   - Free for small farmers (limited features); paid for commercial farms.
+
+4. **Pusa Krishi** (ICAR-IARI)
+   - Weather-based advisories for Delhi region, crop varieties, pest management.
+   - Also has agri-calculator (seed rate, fertilizer).
+
+5. **eNAM** (National Agriculture Market)
+   - Check real-time prices of 200+ commodities in 1000+ mandis.
+   - Trade online with buyer after registering with mandi.
+
+6. **Kisan Rath** (Transportation)
+   - Connect with truckers for moving produce from farm to mandi.
+
+7. **IFFCO BAZAR** (Inputs & Advisory)
+   - Buy certified seeds, fertilizers, pesticides at MRP.
+   - Also has agronomy advisory and weather forecast.
+
+How to Get Started?
+- Most apps available on Google Play Store.
+- Need smartphone with 4G connection (₹1500-2000 phone works).
+- Use local language – enable Hindi/regional language in phone settings.
+
+Tips:
+- Cross-check AI diagnosis with local KVK expert before spraying.
+- Use multiple apps: Plantix for diagnosis, Kisan Suvidha for weather/mandi, eNAM for price comparison.

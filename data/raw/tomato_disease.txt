@@ -1,0 +1,32 @@
+﻿TOMATO DISEASE MANAGEMENT
+
+Early Blight (Alternaria solani):
+Symptoms:
+- Small, brown spots on older leaves
+- Concentric rings (target-like appearance)
+- Yellowing around spots
+- Defoliation in severe cases
+
+Prevention:
+- Maintain plant spacing: 45x60 cm for airflow
+- Avoid overhead watering (use drip irrigation)
+- Remove infected lower leaves
+- Practice crop rotation (avoid solanaceous crops for 2 years)
+- Use resistant varieties (like Arka Ahuti, Arka Vikas)
+
+Management:
+- Copper-based fungicides: Copper oxychloride (2g/L)
+- Mancozeb (2.5g/L) as preventive spray
+- Biological control: Trichoderma application
+- Apply first spray at flowering stage
+
+Late Blight (Phytophthora infestans):
+- Prefers cool, wet conditions
+- Water-soaked lesions on leaves
+- White fungal growth on lower surface
+- Use metalaxyl or cymoxanil-based fungicides
+
+Other Diseases:
+- Bacterial wilt: Use resistant rootstocks
+- Leaf curl virus: Control whiteflies, use yellow sticky traps
+- Blossom end rot: Maintain calcium levels, regular irrigation

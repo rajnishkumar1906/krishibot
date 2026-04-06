@@ -1,0 +1,28 @@
+fastapi
+uvicorn[standard]
+
+# LangChain and RAG
+langchain
+langchain-community
+langchain-core
+langchain-huggingface
+
+# Vector Store
+faiss-cpu
+
+# ML & NLP
+sentence-transformers
+transformers
+torch
+google-generativeai
+
+# Data Processing
+pypdf
+tqdm
+numpy
+scikit-learn
+
+# Voice and Utilities
+gtts
+python-multipart
+python-dotenv

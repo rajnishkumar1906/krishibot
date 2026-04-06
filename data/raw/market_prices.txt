@@ -1,0 +1,30 @@
+﻿MARKET INFORMATION SYSTEM
+
+Minimum Support Price (MSP):
+Government guaranteed prices for 23 crops:
+- Paddy (common): ₹2183/quintal (2025)
+- Wheat: ₹2275/quintal
+- Cotton (medium): ₹7020/quintal
+- Tur/Arhar: ₹7550/quintal
+- Groundnut: ₹6410/quintal
+
+e-NAM (National Agriculture Market):
+- Online trading platform connecting 1000+ mandis
+- Check real-time prices: https://enam.gov.in
+- Features:
+  - Transparent bidding process
+  - Direct payment to farmers
+  - Quality certification
+  - Reduced middlemen involvement
+
+Marketing Tips:
+- Check prices in multiple mandis before selling
+- Avoid distress selling during harvest
+- Consider storage (warehouse receipt system)
+- Join Farmer Producer Organizations (FPOs) for collective bargaining
+- Use government procurement centers during MSP operations
+
+APMC Mandi Charges:
+- Market fee: 0.5-2% of produce value
+- Commission charges: 1-2% (if using commission agent)
+- Weighing, loading, and handling charges

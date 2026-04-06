@@ -1,0 +1,35 @@
+**Major Crop Cultivation Guide for Indian Farmers**
+
+**Wheat (Rabi)**
+- Sowing: Oct–Dec (North India: Oct 15–Nov 15; Central: Nov 1–Nov 30)
+- Harvest: March–April
+- Temperature: 10–25°C
+- Water: 4–6 irrigations (CRI at 20–25 days, tillering 40–45 days, flowering 60–65 days, grain filling 90–100 days)
+- Fertilizers: 120–150 kg N, 60–80 kg P₂O₅, 40–60 kg K₂O per hectare
+- Varieties: HD 2967, PBW 343, DBW 187 (for North India)
+
+**Rice (Kharif)**
+- Sowing: June–July (nursery); transplanting July–August
+- Harvest: Oct–Nov
+- Temperature: 20–35°C
+- Water: 12–16 irrigations (or standing water in lowlands)
+- Fertilizers: 100–120 kg N, 50–60 kg P₂O₅, 40–50 kg K₂O per hectare
+- Popular varieties: Pusa Basmati 1121, IR 64, Swarna (MTU 7029), Sahbhagi Dhan (drought-tolerant)
+
+**Maize (Kharif/Rabi)**
+- Sowing: June–July (Kharif), Oct–Nov (Rabi in some areas)
+- Spacing: 60x20 cm
+- Fertilizers: 150–180 kg N, 60–80 kg P₂O₅, 40–60 kg K₂O per hectare
+- Hybrids: HQPM 1 (protein-rich), Vivek QPM 9
+
+**Pulses (Gram, Pigeonpea, Moong, Urad)**
+- Gram (Chana): Sowing Oct–Nov, harvest Feb–March; needs 1–2 irrigations; resistant to wilt varieties: GNG 1581, RVG 202
+- Pigeonpea (Arhar): Sowing June–July; long duration (180–220 days); intercropping with sorghum/soybean; varieties: Pusa 992, BAHAR, ICPL 87119 (extra-short duration 120 days)
+- Moong: Summer (March–May) or Kharif; short duration (60–75 days); varieties: SML 668, IPM 2-3, Pusa Vishal
+
+**Cotton (Kharif)**
+- Sowing: May–June (North zone), June–July (Central/South)
+- Spacing: 90x60 cm (hybrid), 60x30 cm (desi)
+- Fertilizers: 120–150 kg N, 60–70 kg P₂O₅, 60–80 kg K₂O per hectare
+- Bt cotton hybrids: Ankur 6515, RCH 659, MRC 7351
+- Major pests: pink bollworm, whitefly, mealybug

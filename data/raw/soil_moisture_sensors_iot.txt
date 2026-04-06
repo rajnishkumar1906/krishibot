@@ -1,0 +1,63 @@
+IoT Sensors & Soil Moisture Monitoring for Smart Farming
+
+What are IoT Sensors?
+
+Small devices placed in soil that measure moisture, temperature, electrical conductivity (salinity).
+
+Data sent to mobile phone via Bluetooth or SIM card (GSM).
+
+Why Use Soil Moisture Sensors?
+
+Tell you exactly when to irrigate – no guessing.
+
+Save water (up to 40%) – critical for groundwater-depleted areas.
+
+Prevent over‑irrigation that causes root rot or nutrient leaching.
+
+Improve yield by maintaining optimum soil water tension.
+
+Types of Sensors:
+
+Tensiometer (low cost, ₹2000-5000) – Measures soil water tension, works for most soils.
+
+Capacitance sensor (₹5000-15000) – More accurate, gives % moisture.
+
+Time Domain Reflectometry (TDR) – Expensive, used in research.
+
+Affordable Indian Products:
+
+Farmsio (₹3500) – Bluetooth sensor, app gives irrigation schedule.
+
+AquaSpy (₹8000) – Three-depth sensor, works for crops like sugarcane, cotton.
+
+CultYvate – Subscription model (sensor + analytics).
+
+IIT Kharagpur's mKRISHI – Low-cost sensor prototype (available through KVKs).
+
+Installation Tips:
+
+Place at 15-30 cm depth for shallow-rooted crops (wheat, vegetables).
+
+For deep-rooted (sugarcane, fruit trees), place at 30-60 cm.
+
+Avoid spots near trees or compacted areas.
+
+Government Schemes:
+
+Pradhan Mantri Krishi Sinchayee Yojana (PMKSY) – subsidy up to 50% for micro‑irrigation + sensors.
+
+Many state horticulture missions also include sensor subsidies.
+
+Return on Investment (ROI):
+
+Sensor cost recouped in 1-2 seasons through water savings and higher yield.
+
+Example: For a 2-acre farm using borewell, saving 30% water reduces electricity cost by ₹3000-5000/year.
+
+Where to Buy?
+
+KVK (demo units)
+
+Amazon India (some sensors)
+
+Direct from companies: farmsio.com, kheti-buddy.com

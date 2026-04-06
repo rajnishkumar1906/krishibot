@@ -1,0 +1,26 @@
+**Precision Farming & Digital Agriculture**
+
+What is Precision Farming?
+- Using technology to measure and manage field variability in crops, soil, weather, and inputs.
+- Goal: Increase yield, reduce cost, conserve resources.
+
+Technologies Used:
+1. GPS/GNSS – For field mapping, auto-steering tractors, yield monitoring.
+2. Remote Sensing – Satellite (Sentinel, Landsat) and drone images to monitor crop health (NDVI, soil moisture).
+3. Variable Rate Technology (VRT) – Apply seeds, fertilizers, water at different rates across a field based on soil maps.
+4. Yield Monitors – Installed on harvesters to create yield maps.
+
+Benefits for Indian Farmers:
+- Save fertilizer (20-30%) and water (30-40%).
+- Early detection of pest/disease outbreaks via drone multispectral imaging.
+- Better planning through weather forecast integration.
+
+Examples in India:
+- CropIn (Bangalore) – Farm management software with satellite insights.
+- Fasal – IoT sensors for real-time orchard monitoring (temperature, humidity, leaf wetness).
+- Ninjacart – Supply chain tech, but also provides quality sensors.
+
+How to Start?
+- Small farmers: Use mobile apps (Plantix, CropIn) for AI-based pest diagnosis.
+- Progressive farmers: Hire drone service providers for field mapping (cost ~₹500-1000/acre).
+- Cooperative groups: Share IoT sensor stations.
